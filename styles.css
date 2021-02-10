@@ -6,9 +6,50 @@
 
 body {
     padding: 40px;
+    color: rgb(144, 43, 226);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
+
+h1 {
+font-size: 3em;
+}
+
+h3 {
+
+font-size: 1.5em;
+letter-spacing: -3px;
+
+
 }
 
 blockquote {
     margin: 0 0 0 30px;
+    font-style: italic;
+    line-height: 2;
+    text-align: justify;
 }
 
+span {
+
+   text-decoration: line-through;
+}
+
+em {
+
+text-transform: capitalize;
+}
+
+strong {
+
+text-transform: uppercase;
+font-weight: bolder;
+}
+
+a {
+
+color: chartreuse;
+text-decoration: none;
+
+
+}
